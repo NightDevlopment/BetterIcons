@@ -1,10 +1,3 @@
-/**
- * @name BasicBackground
- * @description Gives you discord client a betterIcon it makes it more alive
- * @author NightSky69 & devilbro
- * @version 1.0.5
- */
-
 :root {
 	--use-settingsicons: calc(var(--settingsicons, 1) / (var(--settingsicons, 1) + 0.00000000000000000000001));
 	--settingsicons-size: 18px;
